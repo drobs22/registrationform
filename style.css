@@ -1,0 +1,52 @@
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 60px;
+    z-index: 1;
+    background-color: white;
+    box-shadow: 0 10px 10px 0 slategray;
+    
+}
+nav ul li{
+    list-style-type: none;
+    float: right;
+    text-align: center;
+    margin: 7px;
+    padding-bottom: 35%;
+    
+}
+.navbutton {
+    border-radius: 5px;
+}
+html {
+    background-color: skyblue;
+}
+form {
+    margin: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+
+}
+fieldset {
+    text-align: center;
+    border-style: solid;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 5%;
+    background-color: white;
+    border-radius: 10px;
+
+}
+button {
+    background-color: #3985cc;
+}
+.social {
+    border-radius: 50%;
+}
+.submit {
+    width: 65%;
+    border-radius: 5px;
+}
